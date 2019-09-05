@@ -20,7 +20,7 @@ def monopoly_with_third_tier
         three_piece: {},
         four_piece: {}
       },
-      names : {}
+      names: {}
     }
   }
 end
