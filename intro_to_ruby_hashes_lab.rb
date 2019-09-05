@@ -13,7 +13,7 @@ end
 def monopoly_with_third_tier
   firsthash = {
     railroads: {
-      pieces: 4
+      pieces: 4,
       rent_in_dollars: {}
     }
   }
