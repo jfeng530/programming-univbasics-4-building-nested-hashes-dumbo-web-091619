@@ -22,7 +22,7 @@ def monopoly_with_third_tier
       },
       names: {
         reading_railroad: {},
-        second_name: {},
+        pennsylvania_railroad: {},
         third_name: {},
         fourth_name: {}
       }
